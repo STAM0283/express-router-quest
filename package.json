@@ -1,7 +1,7 @@
 {
   "name": "express-router-quest",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Get it",
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint --fix .",
@@ -19,5 +19,13 @@
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.19.1",
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STAM0283/express-router-quest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/STAM0283/express-router-quest/issues"
+  },
+  "homepage": "https://github.com/STAM0283/express-router-quest#readme"
 }
